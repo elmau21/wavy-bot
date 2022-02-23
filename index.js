@@ -18,4 +18,4 @@ client.on('messageCreate', async (message) => {
         message.reply("Glow Up Team")
     };
 });
-client.login("OTM3NDMzMjUxMzU2NzQ5ODk2.Yfbqvw.j09i5-_T878xZokDiVN8HUwbxdY");
+client.login("BOT_TOKEN");
